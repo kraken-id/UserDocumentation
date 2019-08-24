@@ -1,2 +1,2 @@
-# UserDocumentation
-User Documentation and Tutorials from Alpha to Beta
+## User Documentation
+### <A href="/wiki">Go to the wiki</a>
