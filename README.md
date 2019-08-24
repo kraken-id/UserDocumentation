@@ -1,2 +1,2 @@
 ## User Documentation
-### <A href="/wiki">Go to the wiki</a>
+### <A href="https://github.com/kraken-id/UserDocumentation/wiki">Go to the wiki</a>
